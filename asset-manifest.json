@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/APP2000-gruppe04/static/css/main.3e4ef106.css",
+    "main.js": "/APP2000-gruppe04/static/js/main.ce133093.js",
+    "static/media/macbook.png": "/APP2000-gruppe04/static/media/macbook.e0a8c5d5cc02d71b6d86.png",
+    "static/media/rotating-card-bg-back.jpeg": "/APP2000-gruppe04/static/media/rotating-card-bg-back.183088de91adb283a9ae.jpeg",
+    "static/media/mongodb.jpg": "/APP2000-gruppe04/static/media/mongodb.369db4b6f76390d48aa8.jpg",
+    "static/media/king.png": "/APP2000-gruppe04/static/media/king.89d6e2221ad15f513d9f.png",
+    "static/media/kevin.png": "/APP2000-gruppe04/static/media/kevin.7bf206cbdc2b55a7d696.png",
+    "static/media/eriktobias.png": "/APP2000-gruppe04/static/media/eriktobias.0b3ef578f664590ee971.png",
+    "static/media/abdallah.png": "/APP2000-gruppe04/static/media/abdallah.87864d09f6e80b884335.png",
+    "static/media/AboutSectionFrontPageBg.png": "/APP2000-gruppe04/static/media/AboutSectionFrontPageBg.9977433f04ebcb4111dd.png",
+    "static/media/banner.png": "/APP2000-gruppe04/static/media/banner.5c477dfc50571fc8aa78.png",
+    "static/media/css3.png": "/APP2000-gruppe04/static/media/css3.71f6c1afd6eaafd7e790.png",
+    "static/media/nodejs.jpg": "/APP2000-gruppe04/static/media/nodejs.413f6107011d5a98f1e9.jpg",
+    "static/media/info.png": "/APP2000-gruppe04/static/media/info.de525a183f9bb196d7a5.png",
+    "static/media/logo-digitalocean.svg": "/APP2000-gruppe04/static/media/logo-digitalocean.a1f147b01387952368e3180edf221c96.svg",
+    "static/media/logo-vodafone.svg": "/APP2000-gruppe04/static/media/logo-vodafone.b3e8486c0cac220bc3a31c9eab049b21.svg",
+    "static/media/logo-facebook.svg": "/APP2000-gruppe04/static/media/logo-facebook.106d2ac0ece089e3c6def0a36c283ef7.svg",
+    "static/media/logo-apple.svg": "/APP2000-gruppe04/static/media/logo-apple.f9c2682e61da98dfbc703a4dccd0d064.svg",
+    "static/media/logo-nasa.svg": "/APP2000-gruppe04/static/media/logo-nasa.c5d11f8820bfde5fd64db0074156e06c.svg",
+    "index.html": "/APP2000-gruppe04/index.html",
+    "static/media/React.svg": "/APP2000-gruppe04/static/media/React.85da6d00122a1f106d73a4beedbac705.svg",
+    "main.3e4ef106.css.map": "/APP2000-gruppe04/static/css/main.3e4ef106.css.map",
+    "main.ce133093.js.map": "/APP2000-gruppe04/static/js/main.ce133093.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e4ef106.css",
+    "static/js/main.ce133093.js"
+  ]
+}
